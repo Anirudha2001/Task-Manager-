@@ -32,10 +32,6 @@ The frontend interface includes the following views/pages:
 - **Details View**: Shows details of a single task.
 - **Add/Edit View**: Form for adding a new task or editing an existing one.
 
-### Technologies Used:
-- Frontend Framework/Library: React
-- CSS Framework: Bootstrap
-- Responsive Design: Implemented using Bootstrap grid system
 
 ## Authentication (Bonus)
 A simple user authentication system is implemented, allowing users to register, login, and logout. Only logged-in users can perform CRUD operations.
@@ -54,10 +50,9 @@ The application is deployed to Heroku for accessibility. You can access the live
 5. Run the frontend server: `npm start` inside the frontend directory.
 
 
-## UI & Functionality
+## Functionality
 
-![UI](images/ui.png)
-![UI](images/ui_edit.png)
+![UI](https://github.com/Anirudha2001/Task-Manager-/blob/main/task%20manager/images/ui.png)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues for any feature requests or bug fixes.
